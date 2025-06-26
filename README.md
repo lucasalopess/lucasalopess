@@ -13,7 +13,9 @@
 
 ## Sobre mim 🗣️
 \
-Atualmente estou cursando Ciência da Computação, na Universidade Federal de Lavras. Possuo um cargo de bolsista na Agência de Inovação Zetta, onde tenho trabalhado com Algoritmos de Machine Learning e Redes Neurais para obtenção e classificação de dados de imagens. Possuo grande interesse por Data Science e Desenvolvimento de Software, especialmente o desenvolvimento Backend.
+Sou estudante de Ciência da Computação na Universidade Federal de Lavras (UFLA), e realizei um semestre de mobilidade acadêmica no Instituto Politécnico de Bragança (IPB), em Portugal. Atuo como bolsista de extensão na equipe de desenvolvimento do sistema Sidagro, um projeto de parceria entre a UFLA e o Instituto Mineiro de Agropecuária. No projeto, trabalho com desenvolvimento backend em Java (Spring Boot), banco de dados PostgreSQL e ambiente conteinerizado com Docker, seguindo a arquitetura MVP e boas práticas como testes de unidade e integração.
+<br />
+Além do desenvolvimento backend, tenho interesse especial por Arquitetura de Software e Devops.
 <br />
 <br />
 
