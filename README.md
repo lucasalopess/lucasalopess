@@ -22,7 +22,7 @@ My daily stack heavily involves cloud architecture on **AWS**, containerization 
 <br />
 
 ## Hard Skills ⚡
-\
+<br />
 ### Languages & Frameworks
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
