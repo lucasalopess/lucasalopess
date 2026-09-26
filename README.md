@@ -17,7 +17,7 @@ I'm a **Software Engineer** specializing in **Backend Development** and **Distri
 
 My daily stack heavily involves cloud architecture on **AWS**, containerization (**Docker & Kubernetes**), Infrastructure as Code (**Terraform**), and CI/CD pipelines. I'm highly focused on code quality, applying Clean Code, SOLID principles, and automated testing to deliver resilient, high-impact solutions.
 
-🎓 Currently finishing my BSc in Computer Science at the **Federal University of Lavras (UFLA)**, alongside an academic exchange semester in Informatics Engineering at the **Polytechnic Institute of Bragança (IPB)** in Portugal.
+🎓 I hold a BSc in Computer Science from the **Federal University of Lavras (UFLA)**, which included an academic exchange semester in Informatics Engineering at the **Polytechnic Institute of Bragança (IPB)** in Portugal.
 <br />
 <br />
 
